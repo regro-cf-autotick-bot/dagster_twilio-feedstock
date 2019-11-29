@@ -116,5 +116,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@xhochy](https://github.com/xhochy/)
+* [@conda-forge/dagster](https://github.com/conda-forge/dagster/)
 
